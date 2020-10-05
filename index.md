@@ -3,4 +3,11 @@ layout: default
 ---
 # Hello World
 {% include 01-name.md %}
-###### Hello
+
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
